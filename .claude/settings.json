@@ -1,0 +1,21 @@
+{
+  // "permissions": {
+  //   "allow": [
+  //     "Bash(dotnet build:*)",
+  //     "Bash(dotnet run:*)",
+  //     "Bash(dotnet watch:*)",
+  //     "Bash(dotnet test:*)",
+  //     "Bash(dotnet format:*)",
+  //     "Bash(dotnet list package:*)",
+  //     "Bash(git status)",
+  //     "Bash(git diff:*)",
+  //     "Bash(git log:*)",
+  //     "Bash(git branch:*)"
+  //   ],
+  //   "deny": [
+  //     "Bash(git push --force:*)",
+  //     "Bash(rm -rf:*)",
+  //     "Bash(git reset --hard:*)"
+  //   ]
+  // }
+}
