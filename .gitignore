@@ -47,11 +47,15 @@
 *.DotSettings.user
 
 # Environment / secrets
-*.env
-.env.*
-appsettings.*.local.json
-secrets.json
+# *.env
+# .env.*
+# appsettings.*.local.json
+# secrets.json
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# # Claude Code — private/local-only files
+# CLAUDE.local.md
+# .claude/settings.local.json
